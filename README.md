@@ -9,7 +9,7 @@ Understanding machine learning algorithms and mathematics behind them
    
 2. Just paste the link "http://nbviewer.jupyter.org/github.com/nalinda05kl/ML_Demos_TSU/blob/master/Batch_Gradient_Descent_Intro.ipynb" in your search bar.
 
-This should work for any .ipython note book. Just change the file mname at the end of the link accordingly. Thanks!
+This should work for any .ipython note book. Just change the file name at the end of the link accordingly. Thanks!
 
 If neither of the above steps working, feel free to contact me : nalinda05kl@gmail.com
   
