@@ -12,5 +12,8 @@ Understanding machine learning algorithms and mathematics behind them
 This should work for any .ipython note book. Just change the file name at the end of the link accordingly. Thanks!
 
 If neither of the above steps working, feel free to contact me : nalinda05kl@gmail.com
+
+### NOTE:
+In the presentation of results, for the purpose of understanding of some basic machine learning concepts (such as overfitting), I may have used heyper-paramters that are not necessarily optimized. Feel free to make changes in the hyper-parameters and see the results by your self in your own copy of this code.
   
   
